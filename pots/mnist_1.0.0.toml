@@ -1,0 +1,20 @@
+name = "mnist"
+description = """The MNIST database of handwritten digits."""
+version = "1.0.0"
+homepage = "http://yann.lecun.com/exdb/mnist/"
+
+[[files]]
+url = "http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz"
+sha1 = "6c95f4b05d2bf285e1bfb0e7960c31bd3b3f8a7d"
+
+[[files]]
+url = "http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz"
+sha1 = "2a80914081dc54586dbdf242f9805a6b8d2a15fc"
+
+[[files]]
+url = "http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz"
+sha1 = "c3a25af1f52dad7f726cce8cacb138654b760d48"
+
+[[files]]
+url = "http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz"
+sha1 = "763e7fa3757d93b0cdec073cef058b2004252c17"

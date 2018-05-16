@@ -1,0 +1,8 @@
+[package]
+name = "greenhouse"
+version = "0.1.0"
+authors = ["Alexey Suslov <alexey.suslov@gmail.com>"]
+
+[dependencies]
+garden = { git = "http://github.com/GiantPlantsSociety/garden", branch = "master" }
+toml = "*"

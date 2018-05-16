@@ -1,0 +1,3 @@
+[dependencies]
+mnist = { path = "pots/mnist_1.0.0.toml" }
+fashion_mnist = { path = "pots/fashion_mnist_1.0.0.toml" }
