@@ -5,4 +5,3 @@ authors = ["Alexey Suslov <alexey.suslov@gmail.com>"]
 
 [dependencies]
 garden = { git = "http://github.com/GiantPlantsSociety/garden", branch = "master" }
-toml = "*"

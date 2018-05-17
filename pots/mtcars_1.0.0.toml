@@ -1,0 +1,8 @@
+name = "mtcars"
+description = """Motor Trend Car Road Tests."""
+version = "1.0.0"
+homepage = "https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html"
+
+[[files]]
+url = "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/mtcars.csv"
+sha1 = "0d84e86eebe633a69a78206e47f3522eafe0fbbf"

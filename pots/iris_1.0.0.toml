@@ -1,0 +1,8 @@
+name = "iris"
+description = """Edgar Anderson's Iris Data."""
+version = "1.0.0"
+homepage = "https://en.wikipedia.org/wiki/Iris_flower_data_set"
+
+[[files]]
+url = "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/iris.csv"
+sha1 = "429f6930e206c782f1fb0d1564dbda5b5a6d5533"
